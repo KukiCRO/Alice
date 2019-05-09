@@ -1,0 +1,52 @@
+ALISA U ZEMLJI ÈUDESA
+
+
+LVL.1 ZEÈIJA RUPA
+
+
+LIKOVI: Alisa, Zec
+
+ANIMACIJE LIKOVA:
+ALISA- SKOK(up),ÈUÈANJ(down),OKRET (right/left), STOJI, PUCA, PAD(mrda se), HODA (left/right)
+ZEC-   TRÈI, STOJI, GLEDA U SAT, TAPÆE NOGOM
+		
+
+ASSETS:drvo (B), livada (U), knjige (police s knjigama)cilindar (B), potioni(DRINK ME), hodnik (kocka bez facea), vrata (mala, velika, iskrivljena), lampe, STOLIÆ(stakleni/I), KLJUÈ (zlatni/I), ZASTOR/MALA VRATA,
+	STAKLENA KUTIJICA (INVENTORIJ), KOLAÈIÆ(EAT ME), 
+
+RADNJA: 1.1. A. leži pod drvetom, sunce sija. spava joj se (UVOD) 
+	1.1. Z. protèi pored A. i pogleda u sat.(UVOD)
+	1.1. A. ustaje i trèi za njim po livadi (izbjegava zapreke;drvo, izbocenje u zemlji).(TUTORIAL)(kontrole up/down)(U)
+	1.2. Z. skaèe u zeèiju rupu. A. uskaèe u rupu i pada kroz nju (cilindar). (TUTORIAL)
+	1.2.1. A. pada kroz rupu.( ANIMACIJA ALISE: PAD)(B) (PRIKAZ VIRTUOZNOSTI IZRADE CILINDRA PUNOG KNJIGA, TEGLI, ZEMLJOPISNIH MAPA I OSTALIH RADOSTI)(B)
+	1.3. A. sljeæe na hrpu lišæa (B), diže se i Z. ju èeka u hodniku (za igraèe). Na poèetku hodnika se nalazi ZASTOR/MALA VRATA (za autore)
+	1.3. A. nastavlja trèati za Z.kroz hodnik pun vrata, sa stropa vise lampe duž cijelog hodnika.
+	1.3. A. dolazi do stoliæa sa kljuèem,pokusava otvorit razna vrata al kljuè ne paše ni u jednu bravu. 
+	1.3. A. istražuje po hodniku i naiðe na zastor, treba ga pomaknut(F), iza njega su mala vrata èija brava paše uz kljuè. Vrata se otvaraju ali nemože proæ kroz njih (Down). 
+		(try button down) Može samo zaviriti (otvara se scena prekrasnog vrta s okvirom vrata). 
+		Mora se vratit do stoliæa i na njemu je DRINK ME POTION. Popije ga i smanji se na velièinu ZASTOR/MALA VRATA. KLJUÈ JE OSTAO NA STOLU A ONA SE SMANJILA. oOO NE.
+	1.3. A. primjeti STAKLENA KUTIJICA. (tipka I/klik na kutijicu)  (INVENTORIJ)(TUTORIJAL) 
+	1.3. Kutijica se otvori u novi prozor i vidimo neki kolaèiæ, izaberemo ga i A. ga izkonzumira.(INVENTORIJ)(TUTORIJAL) (kraj prvog LVLA)
+ 
+Unity: inventorij, 
+
+Blender: izrada likova, animacija likova, izrada motiva
+
+
+dodatci: INVENTORIJ
+
+
+
+
+Lvl.2 BAZEN SUZA
+
+LIKOVI: Alisa, Zec
+
+ALISA- SKOK, OKRET, STOJI, PUCA, HODA 
+ZEC-   TRÈI, STOJI, GLEDA U SAT, TAPÆE NOGOM
+
+
+RADNJA: 2.1.A. poène rast i sad je ogromana u tom hodniku.
+
+dodatci: INVENTORIJ
+
